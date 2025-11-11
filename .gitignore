@@ -1,0 +1,25 @@
+# ---- .NET (Backend) ----
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
+appsettings.Local.json
+
+# ---- Node / React (Frontend) ----
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.development
+.env.production
+
+# ---- IDE / Editor Files ----
+.vscode/
+*.log
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
